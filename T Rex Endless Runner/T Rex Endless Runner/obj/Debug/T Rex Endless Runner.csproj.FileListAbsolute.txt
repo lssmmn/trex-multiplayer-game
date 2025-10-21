@@ -1,0 +1,11 @@
+C:\Users\qwer\source\repos\T Rex Endless Runner\T Rex Endless Runner\bin\Debug\T Rex Endless Runner.exe.config
+C:\Users\qwer\source\repos\T Rex Endless Runner\T Rex Endless Runner\bin\Debug\T Rex Endless Runner.exe
+C:\Users\qwer\source\repos\T Rex Endless Runner\T Rex Endless Runner\bin\Debug\T Rex Endless Runner.pdb
+C:\Users\qwer\source\repos\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T Rex Endless Runner.csproj.AssemblyReference.cache
+C:\Users\qwer\source\repos\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T_Rex_Endless_Runner.Form1.resources
+C:\Users\qwer\source\repos\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T_Rex_Endless_Runner.Properties.Resources.resources
+C:\Users\qwer\source\repos\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T Rex Endless Runner.csproj.GenerateResource.cache
+C:\Users\qwer\source\repos\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T Rex Endless Runner.csproj.CoreCompileInputs.cache
+C:\Users\qwer\source\repos\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T Rex Endless Runner.exe
+C:\Users\qwer\source\repos\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T Rex Endless Runner.pdb
+C:\Users\qwer\source\repos\T Rex Endless Runner\T Rex Endless Runner\obj\Debug\T Rex Endless Runner.exe.config
